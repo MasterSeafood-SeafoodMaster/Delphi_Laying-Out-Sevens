@@ -1,0 +1,23 @@
+TCard component for Delphi 32 - freeware
+-------------------------------------------
+
+author: Giulio Ferrari
+e-mail: giulio_ferrari@hotmail.com
+
+This component shows a ms-like card with NO USE OF DLLs.
+It's FREEWARE. I'm not responsible for any damage on your
+or your user's PCs.
+
+Help is included in the source file. There are methods to
+simplify the use of the component. Possibility of showing
+decks of various types.
+
+Please send me an email if you include it in an application.
+
+Go to page:
+http://www.geocities.com/SiliconValley/Lab/2106/
+to see games written by me in Delphi, and an application
+of the TCard component.
+Email me to have the source code.
+
+
