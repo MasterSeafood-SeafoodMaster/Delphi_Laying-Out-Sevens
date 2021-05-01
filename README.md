@@ -1,5 +1,5 @@
 # Delphi_Laying-Out-Sevens
-A funny Card game
+*A funny Card game*
 
 ## Description:
 
