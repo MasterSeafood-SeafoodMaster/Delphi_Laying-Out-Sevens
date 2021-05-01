@@ -11,7 +11,7 @@
 
 <img src="docs/images/Step2.png" align="middle" width="1000"/>
 
-**Step 3:** Waiting for all your friends to connect.
+**Step 3:** Waiting for all your friends to connect. (4 players only)
 
 <img src="docs/images/Step3.png" align="middle" width="1000"/>
 
